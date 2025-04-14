@@ -1,6 +1,5 @@
-{
-    "build": {
-      "builder": "python"
-    }
-  }
+"scripts": {
+  "start": "node index.js"
+}
+
   
